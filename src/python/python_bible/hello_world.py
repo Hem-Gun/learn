@@ -6,4 +6,4 @@ y = 'world!'
 
 print x, y
 
-print
+print   
